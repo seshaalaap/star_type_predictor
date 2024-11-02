@@ -4,8 +4,9 @@ import pandas as pd
 from io import StringIO
 
 # API endpoints for single and bulk predictions
-single_predict_url = "https://project-2-e2kj.onrender.com/docs#/default/predict_star_type_predict__post"
-bulk_predict_url = "https://project-2-e2kj.onrender.com/docs#/default/bulk_predict_bulk_predict__post"
+single_predict_url = "https://star-type-predictor.onrender.com/predict/"
+bulk_predict_url = "https://star-type-predictor.onrender.com/bulk_predict/"
+
 
 # Set up the Streamlit app configuration
 st.set_page_config(
