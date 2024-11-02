@@ -11,7 +11,7 @@ from joblib import load
 app = FastAPI()
 
 # Specify your Streamlit app's URL (replace with the actual URL where your Streamlit app is hosted)
-streamlit_app_origin = ""  # Update this with your Streamlit app URL
+streamlit_app_origin = "https://mlstartypepredictor.streamlit.app/"  # Update this with your Streamlit app URL
 
 # Add CORS middleware to restrict access to the API from specified origins
 app.add_middleware(
