@@ -79,10 +79,8 @@ Make sure you have the following installed:
 1. FastAPI - To build the API endpoints
 2. Streamlit - To build and host the frontend of the web application
 3. Render - To host the backend API built using FastAPI
-4. NumPy - To create the synthetic dataset for training, validation, testing, and the web application
-5. Matplotlib - To visualize the cost vs iterations and in the web application to visualize the regression line
-6. Pandas - To read CSV files, create the dataframe, and save dataframes back to CSV
-7. scikit-learn (sklearn) - To implement machine learning models and algorithms for training, evaluating, and making predictions in the web application. It provides tools for regression, classification, clustering, dimensionality reduction, and model evaluation, and is used to train models on the synthetic dataset and make predictions based on user inputs.
+4. Pandas - To read CSV files, create the dataframe, and save dataframes back to CSV
+5. scikit-learn (sklearn) - To implement machine learning models and algorithms for training, evaluating, and making predictions in the web application. It provides tools for regression, classification, clustering, dimensionality reduction, and model evaluation, and is used to train models on the synthetic dataset and make predictions based on user inputs.
 
 
 
