@@ -75,7 +75,7 @@ Make sure you have the following installed:
 
 
 
-# Tools Used In This Project:
+# ⚙️ Tools Used In This Project:
 1. FastAPI - To build the API endpoints
 2. Streamlit - To build and host the frontend of the web application
 3. Render - To host the backend API built using FastAPI
@@ -87,7 +87,7 @@ Make sure you have the following installed:
 
 
 
-# Acknowledgements
+# 🩵 Acknowledgements
 Special thanks to the authors of the libraries used in this project! 
 
 # Contact
